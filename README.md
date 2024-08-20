@@ -1,6 +1,6 @@
 # estudantealurastart
 Boas vindas ao meu perfil 💙💙
-Igor Puciinelli
+Eu sou Igor Puccinelli
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
